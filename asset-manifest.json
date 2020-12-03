@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tweet-to-emoji-react-app/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/tweet-to-emoji-react-app/static/js/main.e86ba939.chunk.js",
+    "main.js.map": "/tweet-to-emoji-react-app/static/js/main.e86ba939.chunk.js.map",
+    "runtime-main.js": "/tweet-to-emoji-react-app/static/js/runtime-main.46cabd6d.js",
+    "runtime-main.js.map": "/tweet-to-emoji-react-app/static/js/runtime-main.46cabd6d.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/tweet-to-emoji-react-app/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.851055d0.chunk.js": "/tweet-to-emoji-react-app/static/js/2.851055d0.chunk.js",
+    "static/js/2.851055d0.chunk.js.map": "/tweet-to-emoji-react-app/static/js/2.851055d0.chunk.js.map",
+    "static/js/3.07c191fa.chunk.js": "/tweet-to-emoji-react-app/static/js/3.07c191fa.chunk.js",
+    "static/js/3.07c191fa.chunk.js.map": "/tweet-to-emoji-react-app/static/js/3.07c191fa.chunk.js.map",
+    "index.html": "/tweet-to-emoji-react-app/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/tweet-to-emoji-react-app/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/tweet-to-emoji-react-app/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.851055d0.chunk.js.LICENSE.txt": "/tweet-to-emoji-react-app/static/js/2.851055d0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46cabd6d.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.851055d0.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.e86ba939.chunk.js"
+  ]
+}
